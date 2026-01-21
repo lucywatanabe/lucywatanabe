@@ -19,7 +19,7 @@ Building cool projects, one bug at a time. And counting..
 - **Frontend:** HTML, CSS, JavaScript, Vue.js  
 - **Backend:** Node.js, Express, Laravel
 - **Database:** Firebase, MangoDB, MySQL,
-- **Tools:** Git, VS Code, Antigravity, Wireshark, Social Engineering, OWASP
+- **Tools:** Git, VS Code, Antigravity, Wireshark, Social Engineering, Nmap, JohnTheRipper
 - **Operating System:** Windows, Ubuntu, Kali, Hyprland
 
 ### 📫 Contact
