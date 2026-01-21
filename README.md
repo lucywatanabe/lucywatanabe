@@ -17,9 +17,10 @@ Building cool projects, one bug at a time. And counting..
 
 ### 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Vue.js  
-- **Backend:** Node.js, Express  
-- **Database:** Firebase, MangoDB  
-- **Tools:** Git, VS Code, Antigravity
+- **Backend:** Node.js, Express, Laravel
+- **Database:** Firebase, MangoDB, MySQL,
+- **Tools:** Git, VS Code, Antigravity, Wireshark, Social Engineering, OWASP
+- **Operating System:** Windows, Ubuntu, Kali, Hyprland
 
 ### 📫 Contact
 - Email: danishafiz@icloud.com
